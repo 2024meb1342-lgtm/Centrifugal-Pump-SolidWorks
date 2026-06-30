@@ -50,5 +50,5 @@ This repository contains the complete 3D CAD model and assembly of a centrifugal
 
 
 B.Tech Mechanical Engineering
-student at IIT Ropar
+ student at IIT Ropar
 
