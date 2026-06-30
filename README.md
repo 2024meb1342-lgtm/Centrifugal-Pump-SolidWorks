@@ -43,7 +43,7 @@ This repository contains the complete 3D CAD model and assembly of a centrifugal
 - This project is complete and the uploaded files represent the final centrifugal pump design.
 - Standard bolts and nuts are not included in this repository because some standard hardware files were unavailable after file transfer.
 - The electric motor used in the assembly is a standard CAD model obtained from an online source and is therefore not included in this repository.
-- T
+  
 ## Author
 
 **Vahid Ahhamed**
