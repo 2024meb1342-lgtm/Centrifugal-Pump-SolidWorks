@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the complete 3D CAD model and assembly of a centrifugal pump designed using SolidWorks. The project demonstrates mechanical component design, parametric modeling, and assembly of a centrifugal pump with its supporting components. It was developed as an academic and engineering design project to strengthen CAD modeling and assembly skills.
+This repository contains the complete 3D CAD model and assembly of a centrifugal pump designed using SolidWorks. The project demonstrates mechanical component design,, and assembly of a centrifugal pump with its supporting components. It was developed as an academic and engineering design project to strengthen CAD modeling and assembly skills.
 
 ## Components Included
 
